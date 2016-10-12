@@ -7,9 +7,11 @@
     "koa": "^1.2.4"
   },
   "devDependencies": {
+    "tap": "^7.1.2"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "tap ./tests/* --cov"
   },
   "keywords": [
     "koa",
