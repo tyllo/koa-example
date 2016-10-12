@@ -1,0 +1,20 @@
+{
+  "name": "koa-example",
+  "version": "0.0.1",
+  "description": "test koa",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^1.2.4"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "koa",
+    "node"
+  ],
+  "author": "tyllo",
+  "license": "MIT"
+}
